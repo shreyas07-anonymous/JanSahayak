@@ -402,7 +402,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For queries or suggestions:
 - 📧 Email: shreyaspatankar300@gmail.com
-- 💼 LinkedIn: [Your Name](www.linkedin.com/in/shreyas-patankar-b4585a341)
+- 💼 LinkedIn: [Shreyas Patankar](www.linkedin.com/in/shreyas-patankar-b4585a341)
 ---
 
 ## ⭐ Support
