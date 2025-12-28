@@ -11,7 +11,7 @@
 
 ## 🎥 Live Demo
 
-### [🚀 **Try the App Live**](YOUR_DEPLOYED_LINK_HERE)
+### [🚀 **Try the App Live**](https://jansahayak-india.streamlit.app/)
 
 ### [📹 **Watch Video Walkthrough**](YOUR_YOUTUBE_LINK_HERE)
 
