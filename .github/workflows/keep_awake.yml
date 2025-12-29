@@ -1,0 +1,19 @@
+name: Streamlit Keep Awake
+on:
+  schedule:
+    - cron: '0 */10 * * *' # Runs every 10 hours to stay under the 12h limit
+  workflow_dispatch:      # Allows you to trigger it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Push empty commit
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git commit --allow-empty -m "Automated wake-up commit"
+          git push
